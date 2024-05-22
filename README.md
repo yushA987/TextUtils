@@ -12,8 +12,8 @@ TextUtils is a React-based web application designed to provide various text mani
 
 ## Screenshots
 
-![TextUtils Dark Mode]()
-![TextUtils Light Mode]()
+![Text-Util-DarkMode (1)](https://github.com/yushA987/TextUtils/assets/114309983/87d2a452-762f-407a-861b-11c818c6aa7e)
+![Text-Util-LightMode (2)](https://github.com/yushA987/TextUtils/assets/114309983/bfb6c99e-2b93-4da6-a194-26a8945ab06d)
 
 ## Installation
 
