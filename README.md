@@ -10,6 +10,11 @@ TextUtils is a React-based web application designed to provide various text mani
 - **Copy to Clipboard**: Easily copy the manipulated text to your clipboard.
 - **Light/Dark Mode**: Toggle between light and dark modes for a better user experience.
 
+## Screenshots
+
+![TextUtils Dark Mode](https://drive.google.com/file/d/1aJWu7Q-mZJqo-YaWmRCntpud2PaH4CF7/view?usp=drive_lin)
+![TextUtils Light Mode](https://drive.google.com/file/d/1RVa--4pYchs1zEKJTHGj06nk9fVB4Vjp/view?usp=drive_link)
+
 ## Installation
 
 To run TextUtils locally, follow these steps:
