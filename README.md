@@ -1,13 +1,15 @@
 # TextUtils
 
-TextUtils is a React-based web application designed to provide various text manipulation functionalities. Users can input text and perform operations such as converting text to uppercase, lowercase, removing extra spaces, and copying text to the clipboard. Additionally, the application includes a dark mode feature for enhanced readability.
+TextUtils is a React-based web application designed to provide various text manipulation functionalities. Users can input text and perform operations such as converting text to uppercase, lowercase, removing extra spaces, copying text to the clipboard, adding commas and clearing the text. Additionally, the application includes a dark mode feature for enhanced readability.
 
 ## Features
 
 - **Convert to Uppercase**: Transform your text to uppercase.
 - **Convert to Lowercase**: Transform your text to lowercase.
+- **Adding Commas**: Add commas between space saperated texts.
 - **Remove Extra Spaces**: Clean up your text by removing extra spaces.
 - **Copy to Clipboard**: Easily copy the manipulated text to your clipboard.
+- **Clearing Text**: Clears the writing area.
 - **Light/Dark Mode**: Toggle between light and dark modes for a better user experience.
 
 ## Screenshots
