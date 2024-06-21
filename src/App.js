@@ -35,7 +35,7 @@ function App() {
     }
     const router = createBrowserRouter([
       {
-        path: "/TextUtils",
+        path: "/",
         element: <>
           <Navbar title = "TextUtils" mode = {mode} toggle={toggleMode}/>
           <Alert alert={alert} />
